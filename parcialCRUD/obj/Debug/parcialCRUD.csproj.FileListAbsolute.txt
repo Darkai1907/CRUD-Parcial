@@ -1,0 +1,10 @@
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\bin\Debug\parcialCRUD.exe.config
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\bin\Debug\parcialCRUD.exe
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\bin\Debug\parcialCRUD.pdb
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\obj\Debug\parcialCRUD.csprojAssemblyReference.cache
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\obj\Debug\parcialCRUD.Form1.resources
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\obj\Debug\parcialCRUD.Properties.Resources.resources
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\obj\Debug\parcialCRUD.csproj.GenerateResource.cache
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\obj\Debug\parcialCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\obj\Debug\parcialCRUD.exe
+C:\Users\Edgar\source\repos\parcialCRUD\parcialCRUD\obj\Debug\parcialCRUD.pdb
